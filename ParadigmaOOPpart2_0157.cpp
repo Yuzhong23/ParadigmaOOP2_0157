@@ -10,7 +10,11 @@ public:
     // }
 };
 
-
+class joko : public seseorang
+{
+public:
+    // deklarasi
+};
 
 int main()
 {
