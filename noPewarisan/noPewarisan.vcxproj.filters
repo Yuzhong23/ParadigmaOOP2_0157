@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OverRiding.cpp">
+    <ClCompile Include="noPewarisan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

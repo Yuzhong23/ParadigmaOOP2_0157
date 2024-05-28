@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2ee6df54-b3aa-4bc9-b4d5-0e47ba705f5f}</ProjectGuid>
-    <RootNamespace>NoOffriding</RootNamespace>
+    <ProjectGuid>{9570d58e-3d6b-4702-90f3-ccea5e1f99ac}</ProjectGuid>
+    <RootNamespace>noPewarisan</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>OverRiding</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OverRiding.cpp" />
+    <ClCompile Include="noPewarisan.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
