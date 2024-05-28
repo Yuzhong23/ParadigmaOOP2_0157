@@ -17,7 +17,7 @@ class derivedClass : public baseClass
 public:
     void perkenalan()
     {
-        cout < , "Hallo saya fuction dari derived class";
+        cout << "Hallo saya fuction dari derived class";
     }
 };
 
