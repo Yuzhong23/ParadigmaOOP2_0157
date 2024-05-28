@@ -10,9 +10,20 @@ public:
     }
 };
 
+class derivedClass : public baseClass
+{
+public:
+    void perkenalan()
+    {
+        cout << "Hallo saya Fuction dari derived Class";
+    }
+};
 
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    derivedClass a;
+    a.perkenalan();
+
+    return 0;
 }
